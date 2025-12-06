@@ -47,7 +47,7 @@ portfolio/
 
 You can reach me at:
 
-- **Email:** ahmedashraf182005@example.com
+- **Email:** ahmedashraf182005@gmail.com
 - **GitHub:** [https://github.com/problem-solver444](https://github.com/problem-solver444)
 - **LinkedIn:** [https://www.linkedin.com/in/ahmed-ashraf-891667352/ ](https://www.linkedin.com/in/ahmed-ashraf-891667352/)
 
